@@ -1,6 +1,6 @@
 # **Описание**
 
-Граф
+**Граф**
 
 ![image](https://github.com/user-attachments/assets/22d864c4-4c76-4170-bd1b-ca6ed8a0fc01)
 
