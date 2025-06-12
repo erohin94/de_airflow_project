@@ -20,3 +20,16 @@
 
 ![Снимок](https://github.com/user-attachments/assets/a9ecbeaa-90e3-41ac-96b8-0650ad547c4c)
 
+**Admin->Connections**
+
+В подключениях прописываем следующие настройки.
+
+Подключение к PostgreSQL
+
+![image](https://github.com/user-attachments/assets/a07d0756-444b-4ee4-a8cc-dec93aec3d7f)
+
+Подключение к API
+
+В password передал API ключ
+
+![image](https://github.com/user-attachments/assets/a5f3c1c7-a9db-4f43-a668-bf2d24db23a3)
