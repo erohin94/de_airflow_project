@@ -36,6 +36,8 @@
 
 ![image](https://github.com/user-attachments/assets/a5f3c1c7-a9db-4f43-a668-bf2d24db23a3)
 
+-----------------------------------------
+
 **Запуск**
 
 ![image](https://github.com/user-attachments/assets/7b5eda62-796d-487e-9e3c-37347a2e14c8)
