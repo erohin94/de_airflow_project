@@ -35,3 +35,8 @@
 Подключение к API. В password передал API ключ currencybeacon
 
 ![image](https://github.com/user-attachments/assets/a5f3c1c7-a9db-4f43-a668-bf2d24db23a3)
+
+**Запуск**
+
+![image](https://github.com/user-attachments/assets/f5bc6c12-8c55-4a4f-8313-83b2274e7620)
+
