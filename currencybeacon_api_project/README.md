@@ -12,6 +12,8 @@
 
 3.`insert_rate`, укладывает полученный курс в таблицу, созданную в таске `create_table_task`
 
+-----------------------------------------
+
 **API от куда тянем данные**
 
 [currencybeacon](https://currencybeacon.com/)
@@ -19,6 +21,8 @@
 Для работы надо зарегистрироваться и получить ключ
 
 ![Снимок](https://github.com/user-attachments/assets/a9ecbeaa-90e3-41ac-96b8-0650ad547c4c)
+
+-----------------------------------------
 
 **Admin->Connections**
 
