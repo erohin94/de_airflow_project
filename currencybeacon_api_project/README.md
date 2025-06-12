@@ -38,5 +38,6 @@
 
 **Запуск**
 
-![image](https://github.com/user-attachments/assets/f5bc6c12-8c55-4a4f-8313-83b2274e7620)
+![image](https://github.com/user-attachments/assets/7b5eda62-796d-487e-9e3c-37347a2e14c8)
+
 
