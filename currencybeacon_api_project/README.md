@@ -40,4 +40,9 @@
 
 ![image](https://github.com/user-attachments/assets/7b5eda62-796d-487e-9e3c-37347a2e14c8)
 
+Как видно, таблица появилась в БД
+
+![image](https://github.com/user-attachments/assets/d676c644-7d9e-4a84-9045-799f9452ef40)
+
+
 
