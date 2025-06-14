@@ -1,6 +1,6 @@
 # Airflow проекты
 
-![image](https://github.com/user-attachments/assets/a3fb3637-c908-47b7-a15c-756b26892ed6)
+![image](https://github.com/user-attachments/assets/3858e1d5-4952-4d3b-91d2-bb82a66e5023)
 
 Этот репозиторий содержит примеры DAG'ов (Directed Acyclic Graphs) для Apache Airflow, демонстрирующие различные сценарии загрузки и обработки данных.
 
