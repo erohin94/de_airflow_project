@@ -1,6 +1,6 @@
 # Airflow проекты
 
-![ChatGPT Image 14 июн  2025 г , 23_15_14](https://github.com/user-attachments/assets/f4d9b127-ddb4-472f-90a0-c240b3bcca28)
+![11](https://github.com/user-attachments/assets/8d47f537-1a13-4642-9334-7ab6b6e5a676)
 
 Этот репозиторий содержит примеры DAG'ов (Directed Acyclic Graphs) для Apache Airflow, демонстрирующие различные сценарии загрузки и обработки данных.
 
