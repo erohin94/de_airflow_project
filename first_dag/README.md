@@ -36,7 +36,7 @@ DAG должен быть доступен при импорте модуля/п
 
 Если всё прошло без ошибок, то в панели управления должны увидеть свой первый DAG:
 
-![image](https://github.com/user-attachments/assets/23cb4e40-9cae-4494-90ea-cc68da4f8aa1)
+![image](https://github.com/user-attachments/assets/0569a37e-7c24-432d-b2a9-55b227c38de8)
 
 **Запуск DAG**
 
