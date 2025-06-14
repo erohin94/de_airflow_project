@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/e724fdbe-4236-4f0d-b341-f4aeb1afc248)
 
+------------------------------------
+
 Планировщик Airflow ищет все возможные DAG по наличию инстанса(объект, который был создан на основе шаблона или класса) объекта DAG в модуле (по пути, указанному в конфигурационном файле).
 
 ![image](https://github.com/user-attachments/assets/51cf3f1d-2c91-45f8-bc12-8392171005ae)
