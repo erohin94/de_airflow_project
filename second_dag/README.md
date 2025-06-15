@@ -23,6 +23,44 @@ Execution Date это дата выполнения конкретного за�
 
 Execution date можно получить, обратившись к контексту выполнения. Контекст можно получить, вызвав функцию `get_current_context`. Для примера работы с `execution_date` создал новый DAG по аналогии с предыдущим, но немного модифицировал код оператора.
 
+```
+import datetime as dt
+
+from airflow.models import DAG
+from airflow.operators.python import PythonOperator
+from airflow.operators.python import get_current_context
+
+default_args = {
+    'owner': 'airflow',
+    'start_date': dt.datetime(2025, 5, 25),
+}
+
+
+def even_only():
+    context = get_current_context()
+    execution_date = context['execution_date']
+
+    if execution_date.day % 2 != 0:
+        raise ValueError(f'Odd day: {execution_date}')
+
+
+with DAG(dag_id='first_dag_execution_date',
+         schedule_interval='@daily',
+         default_args=default_args) as dag:
+
+    even_only = PythonOperator(
+        task_id='even_only',
+        python_callable=even_only,
+        dag=dag,
+    )
+```
+
+![image](https://github.com/user-attachments/assets/11136422-89d5-490c-9153-822ce92f2b74)
+
+Таски будут падать через день, т.е. каждый нечетный день.
+
+![image](https://github.com/user-attachments/assets/91fd619c-3dad-40bd-923f-43b89fc40404)
+
 Функция `get_current_context()` в Apache Airflow используется для получения контекста выполнения задачи (`task instance`) внутри Python-кода. 
 
 
