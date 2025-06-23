@@ -19,7 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/bde10bf3-b2e6-4017-a3eb-014b40f4af47)
 
-После запуска DAG, видно результат выполнения
+## После запуска DAG, видно результат выполнения
 
 ![image](https://github.com/user-attachments/assets/bbaa6c28-3adb-45d9-982b-186f6fbddd9c)
 
