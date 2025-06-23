@@ -15,4 +15,6 @@
 
 ![image](https://github.com/user-attachments/assets/2a3f9135-71ac-414b-afc8-2b9d460248f7)
 
+Настройки в самом UI Airflow
+
 ![image](https://github.com/user-attachments/assets/bde10bf3-b2e6-4017-a3eb-014b40f4af47)
