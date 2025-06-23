@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/0ff141b7-ddd3-45f1-a313-215321a1879e)
 
-В Connections прописать следующие параметры
+В UI Airflow Connections прописать следующие параметры
 
 ```
 {
