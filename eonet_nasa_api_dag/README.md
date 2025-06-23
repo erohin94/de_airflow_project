@@ -10,6 +10,8 @@
 
 ![image](https://github.com/user-attachments/assets/1ba6df35-b7c8-4de2-a7d4-bc93ded0c6cf)
 
+------------------------------------------------------
+
 ## Настройка подключений
 
 В UI Airflow Connections прописать следующие параметры
