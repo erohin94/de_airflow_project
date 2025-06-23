@@ -31,9 +31,17 @@
 
 ![image](https://github.com/user-attachments/assets/bde10bf3-b2e6-4017-a3eb-014b40f4af47)
 
+Подключение к API
+
+Прописать HOST `https://eonet.gsfc.nasa.gov/api/v3/events/?` остальную часть ссылки буду предавать в виде `endpoint` в коде.
+
+![image](https://github.com/user-attachments/assets/c89c9dc4-7569-4524-a4ba-4399541fbbd4)
+
 ------------------------------------------------------
 
 ### Результат
+
+![image](https://github.com/user-attachments/assets/4b0dd4dc-62b4-42f1-ab57-2c46be8f47e4)
 
 В хранилище добавлены json
 
