@@ -32,3 +32,10 @@
 ![image](https://github.com/user-attachments/assets/bde10bf3-b2e6-4017-a3eb-014b40f4af47)
 
 ------------------------------------------------------
+
+### Результат
+
+В хранилище добавлены json
+
+![image](https://github.com/user-attachments/assets/ba66d449-26a6-4654-88ae-17cebf2d08cb)
+
