@@ -18,6 +18,11 @@ def test_minio_connection():
             
         # 3. Тест записи файла
         test_bucket = "test-bucket"
+        # Если бакета нет, то создем новый
+        if not any(b['Name'] == test_bucket for b in buckets['Buckets']):
+            print(f"Создаем бакет {test_bucket}...")
+            s3.create_bucket(Bucket=test_bucket)
+            
         test_content = b"Hello MinIO from Airflow!"
         
         s3.put_object(
