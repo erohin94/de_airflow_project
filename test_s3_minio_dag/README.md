@@ -11,7 +11,7 @@
 }
 ```
 
-AWS Access Key ID и AWS Secret Access Key создаю в Minio. На боковой панели выбрать Access Keys далее Create access keys.
+`AWS Access Key ID` и `AWS Secret Access Key` создаю в Minio. На боковой панели выбрать `Access Keys` далее `Create access keys`.
 
 ![image](https://github.com/user-attachments/assets/2a3f9135-71ac-414b-afc8-2b9d460248f7)
 
