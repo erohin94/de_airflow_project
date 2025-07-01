@@ -101,3 +101,13 @@ check_file >> file_path >> parquet_path
 
 ![image](https://github.com/user-attachments/assets/978747cf-6030-4a18-b1e5-da0e8c0abf42)
 
+Ну и сам parquet
+
+```
+import pandas as pd
+
+df = pd.read_parquet("/content/eonet_data_2025-06-11.parquet")
+df.head()
+```
+
+![image](https://github.com/user-attachments/assets/9abc2c54-c9a6-4290-a0a8-90657d33faa8)
