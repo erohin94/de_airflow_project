@@ -112,8 +112,8 @@ df.head()
 
 ![image](https://github.com/user-attachments/assets/9abc2c54-c9a6-4290-a0a8-90657d33faa8)
 
-## Примеры файлов, загруженных в S3
+## Скачать примеры файлов, загруженных в S3
 
-[Пример 1](https://github.com/erohin94/de_airflow_project/blob/main/eonet_nasa_data_pipeline/eonet_data_2025-06-11.json.gz)
+[Пример 1 - json.gz](https://github.com/erohin94/de_airflow_project/blob/main/eonet_nasa_data_pipeline/eonet_data_2025-06-11.json.gz)
 
-[Пример 2](https://github.com/erohin94/de_airflow_project/blob/main/eonet_nasa_data_pipeline/eonet_data_2025-06-11.parquet)
+[Пример 2 - parquet](https://github.com/erohin94/de_airflow_project/blob/main/eonet_nasa_data_pipeline/eonet_data_2025-06-11.parquet)
