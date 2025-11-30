@@ -20,4 +20,4 @@
 
 Также TaskFlow API позволяет "бесшовно" передавать возвращаемые значения из одного оператора в другой. До TaskFlow API необходимо было явно использовать XCom.
 
-Подробный пост на тему TaskFlow API [TaskFlow API в Apache Airflow 2.0](https://startdatajourney.com/ru/course/apache-airflow-2/modules/11/36/1#:~:text=TaskFlow%20API%20%D0%B2%20Apache%20Airflow%202.0)
+Подробный пост на тему TaskFlow API [TaskFlow API в Apache Airflow 2.0](https://khashtamov.com/ru/airflow-taskflow-api/)
